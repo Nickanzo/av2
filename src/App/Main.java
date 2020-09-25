@@ -1,5 +1,7 @@
 package App;
-
+/*
+    Desenvolvimento realizado em Intelij IDEA
+ */
 import dao.LaptopDAO;
 import modelo.Laptop;
 import view.Tela;
